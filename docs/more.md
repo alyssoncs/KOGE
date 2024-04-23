@@ -32,5 +32,5 @@ Advanced content focused on AGP:
 
 If you're interested in Gradle and AGP related content, consider following or subscribing to:
 
-1. El's [blog](https://2bab.me/zh/)
+1. El's [blog](https://2bab.com/)
 2. El's [GitHub](https://github.com/2bab/)

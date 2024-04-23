@@ -17,7 +17,7 @@ In terms of the scope for "Essentials", it covers point 1 and a few of point 2 b
 > 3. "Extend build functionality": I'm able to add complex tasks or Gradle plugins to extend build functionality such as annotation processor, bytecode transformer, and anything that enhances Gradle or platform plugins(Java/Kotlin/Android).
 > 4. ...
 
-For advanced Gradle and Android Gradle Plugin (AGP) skills with Kotlin, please refer to my latest book: *[Extending Android Builds](https://eab.2bab.com)*. KOGE is served as a preparatory lesson for this book.
+For advanced Gradle and Android Gradle Plugin (AGP) skills with Kotlin, please refer to another book authored by El: *[Extending Android Builds](https://eab.2bab.com)*. KOGE is served as a preparatory lesson for this book.
 
 <ImageZoom 
   src="https://raw.githubusercontent.com/2BAB/KOGE/main/eab-intro.png" 
@@ -40,7 +40,16 @@ Manual is continuously being updated 🚧... Current version number↓
 
 If you would like to contribute, please redirect to the [KOGE Github repo](https://github.com/2BAB/KOGE). Any other questions, please drop your message to [xx2bab@gmail.com](mailto:xx2bab@gmail.com).
 
+
 ## Contributors List
+
+The main contributor - El, who is a seasoned software engineer residing in Singapore. With a wealth of experience in Android application infrastructure, he has spent years delving into technologies like Gradle, AGP, KSP, bytecode transformation, and modularity. His passion for Android development extends beyond coding—he finds immense joy in sharing insights through blog posts, podcasts, books, and conference presentations in both English and Mandarin. Since 2022, he has been recognized as a Google Developer Expert (GDE) for Android. During his downtime, he enjoys maintaining various open-source plugins and utilities that add value to the developer community. You can find him across platforms under the identity “2BAB”.
+
+- 2BAB's Engineering Blog: [https://2bab.com/](https://2bab.com/)
+- X(Twitter): [https://twitter.com/xx2bab/](https://twitter.com/xx2bab/)
+- LinkedIn: [https://linkedin.com/in/2bab/](https://linkedin.com/in/2bab/)
+
+Besides, you can find all contributors below:
 
 <a href="https://github.com/2BAB/KOGE/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=2BAB/KOGE" />
