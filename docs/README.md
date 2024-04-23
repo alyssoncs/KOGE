@@ -17,6 +17,14 @@ In terms of the scope for "Essentials", it covers point 1 and a few of point 2 b
 > 3. "Extend build functionality": I'm able to add complex tasks or Gradle plugins to extend build functionality such as annotation processor, bytecode transformer, and anything that enhances Gradle or platform plugins(Java/Kotlin/Android).
 > 4. ...
 
+For advanced Gradle and Android Gradle Plugin (AGP) skills with Kotlin, please refer to my latest book: *[Extending Android Builds](https://eab.2bab.com)*. KOGE is served as a preparatory lesson for this book.
+
+<ImageZoom 
+  src="https://raw.githubusercontent.com/2BAB/KOGE/main/eab-intro.png" 
+  :border="false" 
+  width="560"
+/>
+
 ## Copyright Statement
 
 1. Content created *individually* adheres to the **[Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-Hans)** license.

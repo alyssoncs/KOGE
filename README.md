@@ -4,8 +4,9 @@
 
 Self-study handbook for Kotlin-oriented Gradle Essential.
 
-Read it in [English](https://koge.2bab.me/#/) or [简体中文](https://koge.2bab.me/#/zh-cn/).
+Read it in [English](https://koge.2bab.com/#/) or [简体中文](https://koge.2bab.com/#/zh-cn/).
 
+For advanced Gradle and Android Gradle Plugin (AGP) skills with Kotlin, please refer to my latest book: *[Extending Android Builds](https://eab.2bab.com)*. KOGE is served as a preparatory lesson for this book.
 
 - Basis
   - Getting started: 
