@@ -50,9 +50,7 @@ Examples of common uses for `buildSrc` include shared Kotlin classes and precomp
 3. ["project-with-buildSrc"@Gradle](https://github.com/gradle/kotlin-dsl-samples/tree/master/samples/project-with-buildSrc)
 4. ["buildSrc-plugin"@Gradle](https://github.com/gradle/kotlin-dsl-samples/tree/master/samples/buildSrc-plugin)
 5. ["android/gradle-recipes/BuildSrc"@Android](https://github.com/android/gradle-recipes/tree/agp-7.1/BuildSrc)
-6. ["2BAB/Polyfill
-
-/buildSrc"@2BAB](https://github.com/2BAB/Polyfill/tree/master/buildSrc)
+6. ["2BAB/Polyfill/buildSrc"@2BAB](https://github.com/2BAB/Polyfill/tree/master/buildSrc)
 
 For enhancing engineering standards with `buildSrc`, consider these practices:
 
