@@ -61,9 +61,7 @@ Note that Android projects require the Android SDK directory in the project root
 
 The following Android documentation elaborates on various common AGP and Android SDK commands for building, installing compiled APK/AAB, etc.:
 
-- ["Building
-
- Your App from the Command Line"@Google](https://developer.android.com/studio/build/building-cmdline)
+- ["Building Your App from the Command Line"@Google](https://developer.android.com/studio/build/building-cmdline)
 
 ## Gradle World Glossary
 
